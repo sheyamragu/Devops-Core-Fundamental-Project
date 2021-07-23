@@ -40,20 +40,20 @@ Fully integrated into Github or other VCS
 
 ## Proposal
 
+My idea is to create an outfit sharing and rating site, whereby users can upload descriptions of outfits they have put together with different items of clothing. Users can then view these outfits and rate them.
 
-
-
-
-
-
-
-
-
-
-
-
+#### Create:
+#### Read:
+#### Update:
+#### Delete:
 
 
 ## Architecture
+
+### Risk Assessment
+
+
+
+
 ## Development
 ## Future Improvements
