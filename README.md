@@ -52,6 +52,10 @@ add outfits
 
 ## Architecture
 
+## Project Tracking
+
+![](Images/Trello%20board.png)
+
 ## Enttity Relationship Diagram
 
 ![](Images/ERD%201.png)
@@ -60,7 +64,7 @@ add outfits
 
 ### Risk Assessment
 
-
+![](Images/Risk%20Assessment%201.png)
 
 
 ## Development
