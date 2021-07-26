@@ -46,8 +46,11 @@ My idea is to create an outfit sharing and rating site, whereby users can upload
 add clothes
 add outfits
 #### Read:
+show a list of outfits and clothes
 #### Update:
+modify outfits
 #### Delete:
+remove outfits
 
 
 ## Architecture
