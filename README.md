@@ -43,12 +43,18 @@ Fully integrated into Github or other VCS
 My idea is to create an outfit sharing and rating site, whereby users can upload descriptions of outfits they have put together with different items of clothing. Users can then view these outfits and rate them.
 
 #### Create:
+add clothes
+add outfits
 #### Read:
 #### Update:
 #### Delete:
 
 
 ## Architecture
+
+## Enttity Relationship Diagram
+
+![](Images/ERD%201.png)
 
 ### Risk Assessment
 
