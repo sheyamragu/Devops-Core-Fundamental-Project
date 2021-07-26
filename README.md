@@ -56,6 +56,8 @@ add outfits
 
 ![](Images/ERD%201.png)
 
+![](Images/ERD%202.png)
+
 ### Risk Assessment
 
 
